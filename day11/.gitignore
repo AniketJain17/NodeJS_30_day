@@ -1,0 +1,12 @@
+.env
+node_modules/
+public/
+resources/assets/js/app.js
+tests/
+vendor/
+webpack.mix.js
+yarn-error.log
+yarn.lock
+|-- .gitignore
+|-- README.md
+|-- app
